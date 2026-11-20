@@ -2,9 +2,11 @@
 
 A fork of [WigglyPaint](https://internet-janitor.itch.io/wigglypaint) by Internet Janitor, built in [Decker](https://beyondloom.com/decker/).
 
-**Use it here:** https://camcheu.github.io/camilles-wigglypaint/
+I was looking for an alternative to WigglyPaint as I really wanted more than 3 colours and every other alternative didn't have exactly what I was looking for and i didn't want to support copies of the original WigglyPaint so i decided to make my own!
 
-## What's new
+**Try it out:** https://camcheu.github.io/camilles-wigglypaint/
+
+## What I added 
 - 16 editable colours with RGB sliders
 - Painted colour swatches that auto-update
 - Colour labels that name themselves
